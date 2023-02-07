@@ -3,14 +3,17 @@ Simulation Constants
 """
 
 
+
+
+
 class SimColor:
 """
-Tuples corresponding to RGB colors, it is NEW
+Tuples corresponding to RGB colors, it is NEW test
 """
     LIGHT_GREY = (240, 240, 240)
     DARK_GREY = (30, 30, 50)
     BLACK = (0, 0, 0)
-    LIMIT_LINE = (80, 80, 100)
+    LIMIT_LINE = (82, 80, 100)
     INFECTED = (210, 100, 140)
     RECOVERED = (0, 160, 0)
     UNEXPOSED = (0, 120, 240)
