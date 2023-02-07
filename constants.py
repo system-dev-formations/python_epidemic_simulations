@@ -6,6 +6,8 @@ Simulation Constants
 class SimColor:
 """
 Tuples corresponding to RGB colors, it is NEW
+add test
+add test 2
 """
     LIGHT_GREY = (240, 240, 240)
     DARK_GREY = (30, 30, 50)
